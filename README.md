@@ -14,4 +14,4 @@ Example:
 
 This will open Google Translate using the URL ``https://translate.google.com/#en/es/hello friend``, which will translate "hello friend" to "Hola amigo".
 
-Please visit https://www.vegard.net/google-translate-extension-for-firefox/ for more information.
+Please visit https://www.vegard.net/google-translate-firefox-extension/ for more information.
