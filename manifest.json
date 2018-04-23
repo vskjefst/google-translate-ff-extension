@@ -1,0 +1,28 @@
+{
+  "manifest_version": 2,
+  "developer": {
+    "name": "Vegard Vines Skjefstad",
+    "url": "https://www.vegard.net/google-translate-extension-for-firefox/"
+  },
+  "name": "Google Translate between any supported languages",
+  "short_name" : "Google Translate (any language)",
+  "description": "Lets you translate between any languages supported by Google Translate from the Firefox address bar. Use the 'gt' keyword two-letter code for each language, then the words you want to translate, e.g. 'gt en es hello friend'.",
+  "version": "1.0",
+  "applications": {
+    "gecko": {
+      "strict_min_version": "55"
+    }
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "omnibox": { "keyword" : "gt" },
+  "icons": {
+    "48": "icons/google-translate-logo.svg",
+    "64": "icons/google-translate-logo.svg",
+    "96": "icons/google-translate-logo.svg",
+    "128": "icons/google-translate-logo.svg",
+    "256": "icons/google-translate-logo.svg",
+    "512": "icons/google-translate-logo.svg"
+  }
+}
