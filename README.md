@@ -2,6 +2,8 @@
 
 The Google Translate Firefox Extension lets you translate between any of the languages supported by Google Translate from the Firefox address bar.
 
+The extension can be installed from the Firefox add-on repository: https://addons.mozilla.org/en-US/firefox/addon/google-translate-all-languages/.
+
 ## Usage
 
 ``gt FROM_LANGUAGE TO_LANGUAGE STRING_TO_TRANSLATE``
